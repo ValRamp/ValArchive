@@ -7,5 +7,5 @@ public class Avvio {
 		System.out.println("ciao a tutti!!");
 		System.out.println("Ciao da leonardo");
 	}
-
+	//Ciao da fabiano
 }
